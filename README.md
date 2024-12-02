@@ -1,3 +1,5 @@
+https://rakaso598.github.io/xlsxGenerator/
+---
 #### xlsxGenerator is a web application that automatically generates Excel files based on CSV data entered by the user. With a simple interface, the tool allows users to input data and immediately download an Excel file, providing a user-friendly experience.  
 - CSV format: CSV is widely used as a simple way to save data as a text file. It is especially useful when dealing with Excel files.  
 - Role of JavaScript: JavaScript provides powerful functions for handling strings, making it easy to process data in CSV format and convert it into an Excel file.  
